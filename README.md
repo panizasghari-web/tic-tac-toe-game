@@ -27,16 +27,16 @@ A modern and interactive Tic Tac Toe game built with HTML, Tailwind CSS, and Van
 
 ## 🧠 AI Difficulty Levels
 
-# 🟢 Easy
+🟢 Easy: 
 The AI selects a random available cell.
 
-# 🟡 Medium
+🟡 Medium: 
 The AI tries to:
 - Win whenever possible.
 - Block the player's winning move.
 - Otherwise choose a random move.
 
-# 🔴 Hard
+🔴 Hard: 
 The AI uses the Minimax Algorithm, making it impossible to beat when played optimally.
 
 ---
