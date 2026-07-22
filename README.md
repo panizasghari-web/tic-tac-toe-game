@@ -1,6 +1,6 @@
 # tic-tac-toe-game
 
-[Live Demo:](https://panizasghari-web.github.io/tic-tac-toe-game/)
+[Live Demo](https://panizasghari-web.github.io/tic-tac-toe-game/)
 
 # 🎮 Tic Tac Toe Game
 
