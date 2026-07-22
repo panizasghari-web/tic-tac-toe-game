@@ -23,8 +23,6 @@ A modern and interactive Tic Tac Toe game built with HTML, Tailwind CSS, and Van
 - ✨ Smooth transitions and animations
 - 🎨 Modern UI built with Tailwind CSS
 
----
-
 ## 🧠 AI Difficulty Levels
 
 🟢 Easy: 
@@ -39,15 +37,11 @@ The AI tries to:
 🔴 Hard: 
 The AI uses the Minimax Algorithm, making it impossible to beat when played optimally.
 
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
 - Tailwind CSS
 - JavaScript (ES6)
-
----
 
 ## 📸 Preview
 
@@ -59,13 +53,9 @@ The AI uses the Minimax Algorithm, making it impossible to beat when played opti
 <img width="959" height="410" alt="6" src="https://github.com/user-attachments/assets/654c95c4-4a48-446d-b53b-334db75f0284" />
 <img width="391" height="89" alt="7" src="https://github.com/user-attachments/assets/c5f20199-08f4-4114-aef0-6217b5b7657d" />
 
----
-
 ## 🚀 How to Run
 
 https://panizasghari-web.github.io/tic-tac-toe-game/
-
----
 
 ## 🎯 What I Practiced
 
@@ -78,8 +68,6 @@ https://panizasghari-web.github.io/tic-tac-toe-game/
 - AI Decision Making
 - Minimax Algorithm
 - Clean Code Organization
-
----
 
 ## 👩‍💻 Author
 
