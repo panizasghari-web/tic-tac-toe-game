@@ -6,8 +6,6 @@
 
 A modern and interactive Tic Tac Toe game built with HTML, Tailwind CSS, and Vanilla JavaScript. This project offers multiple game modes, three AI difficulty levels (including an unbeatable Minimax AI), smooth animations, score tracking, and a clean, responsive interface.
 
----
-
 ## ✨ Features
 
 - 🎯 Player vs Player mode
@@ -29,19 +27,19 @@ A modern and interactive Tic Tac Toe game built with HTML, Tailwind CSS, and Van
 
 ## 🧠 AI Difficulty Levels
 
-# 🟢 Easy
+🟢 Easy
 The AI selects a random available cell.
 
-# 🟡 Medium
+🟡 Medium
 The AI tries to:
 - Win whenever possible.
 - Block the player's winning move.
 - Otherwise choose a random move.
 
-# 🔴 Hard
+🔴 Hard
 The AI uses the Minimax Algorithm, making it impossible to beat when played optimally.
 
----
+--
 
 ## 🛠️ Technologies Used
 
