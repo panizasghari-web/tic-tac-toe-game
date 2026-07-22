@@ -39,7 +39,7 @@ The AI tries to:
 🔴 Hard
 The AI uses the Minimax Algorithm, making it impossible to beat when played optimally.
 
---
+---
 
 ## 🛠️ Technologies Used
 
